@@ -1,0 +1,40 @@
+/* Global */
+body {
+    margin: 0px;
+}
+/* Global */
+
+/* Horizontal Icons */
+div {
+    background-color: #8B8989;
+    width: 100%;
+    overflow: auto;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+div a {
+    text-decoration: none;
+    color: #FFF;
+    font-size: 30px;
+    padding: 12px 0;
+    width: 20%;
+    text-align: center;
+    float: left;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+a:hover {
+    background-color: #000;
+}
+/* Horizontal Icons */
+
+/* Vertical Icons */
+
+
+/* Vertical Icons */
