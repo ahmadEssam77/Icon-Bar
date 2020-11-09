@@ -5,7 +5,7 @@ body {
 /* Global */
 
 /* Horizontal Icons */
-div {
+.horizontal {
     background-color: #8B8989;
     width: 100%;
     overflow: auto;
@@ -15,7 +15,7 @@ h2 {
     text-decoration: underline;
 }
 
-div a {
+.horizontal a {
     text-decoration: none;
     color: #FFF;
     font-size: 30px;
@@ -35,6 +35,17 @@ a:hover {
 /* Horizontal Icons */
 
 /* Vertical Icons */
+.vertical {
+    width: 90px;
+    background-color: #8B8989;
+}
 
+.vertical a {
+    color: #FFF;
+    display: block;
+    text-align: center;
+    padding: 16px;
+    font-size: 30px;
+}
 
 /* Vertical Icons */
